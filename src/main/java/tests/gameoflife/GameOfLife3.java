@@ -23,7 +23,7 @@ Please have your program print out the next iteration of the board.
  */
 
 @SuppressWarnings("Duplicates")
-public class GameOfLife2 {
+public class GameOfLife3 {
 
     private static final int H_SIZE = 5;
     private static final int W_SIZE = 12;
